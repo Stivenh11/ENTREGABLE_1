@@ -10,7 +10,7 @@ if ($sexo == "masculino" && $edad >= 63) {
 } elseif ($sexo == "femenino" && $edad > 54){
     echo "PUEDES PENSIONARTE";
 }elseif ($sexo == "femenino" && $edad < 54) {
-    echo " AUN NO PUEDES PENSIONARTE";}
+    echo " AUN NO PUEDES PENSIONARTE ";}
 
 
 

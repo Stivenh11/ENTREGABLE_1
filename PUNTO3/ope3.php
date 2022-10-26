@@ -9,12 +9,12 @@ $pempatados = $partidos_empatados*1;
 
 $puntos_finales = $pganados + $pperdidos + $pempatados;
 
-echo "puntos ganados;".$pganados;
+echo "puntos ganados; ".$pganados;
 echo "<br>";
-echo  "puntos perdidos;".$pperdidos;
+echo  "puntos perdidos; ".$pperdidos;
 echo "<br>";
-echo "puntos empatados;".$pempatados;
+echo "puntos empatados; ".$pempatados;
 echo "<br>";
-echo "puntuacion final;".$puntos_finales;
+echo "puntuacion final; ".$puntos_finales;
 
 ?>

@@ -11,7 +11,7 @@ $totalcapital45 = $capital+$interes45;;
  
 if ($capital < 500) {
     echo "TU CAPITAL ES MENOR A 500, Y TU RENTABILIDAD DE INTERES ES DE 2% LO QUE EQUIVALE A ;".$interes2 ;
-    echo "TU CAPITAL TOTAL".$totalcapital2;
+    echo "TU CAPITAL TOTAL ".$totalcapital2;
 
 
 } elseif ($capital >= 500 && $capital< 4500 ) {

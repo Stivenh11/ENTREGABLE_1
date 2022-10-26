@@ -4,7 +4,7 @@ $asignatura = $_GET['asignatura'];
 $calificacion = $_GET['calificacion'];
 
 if ($calificacion <= 7) {
-    echo  "ESTUDIANTE;  ".$nombre;
+    echo  "ESTUDIANTE  ".$nombre;
     echo "<br>";
     echo  "ASIGNATURA;  ".$asignatura;
     echo "<br>";
